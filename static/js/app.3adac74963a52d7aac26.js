@@ -1710,7 +1710,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 const state = {
 	songs: [],
-	init: '../../../static/musics/Wicked Wonderland.mp3',
+	init: '../../static/musics/Wicked Wonderland.mp3',
 	hide: true,
 	minute: '00',
 	second: '00',
@@ -1940,4 +1940,4 @@ const getters = {
 
 /***/ })
 ],[23]);
-//# sourceMappingURL=app.5d516b491eab699f0e85.js.map
+//# sourceMappingURL=app.3adac74963a52d7aac26.js.map
