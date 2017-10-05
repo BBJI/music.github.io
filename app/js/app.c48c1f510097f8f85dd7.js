@@ -654,7 +654,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = ([{ id: 'Wicked Wonderland', singer: 'Martin Tungevaag', src: '../../static/musics/Wicked Wonderland.mp3' }, { id: 'Joey', singer: 'Concrete Blonde', src: '../../static/musics/joey.mp3' }, { id: 'For Real', singer: 'Mallrat', src: '../../static/musics/For Real.mp3' }]);
+/* harmony default export */ __webpack_exports__["a"] = ([{ id: 'Wicked Wonderland', singer: 'Martin Tungevaag', src: '../../music.github.io/static/musics/Wicked Wonderland.mp3' }, { id: 'Joey', singer: 'Concrete Blonde', src: '../../music.github.io/static/musics/joey.mp3' }, { id: 'For Real', singer: 'Mallrat', src: '../../music.github.io/static/musics/For Real.mp3' }]);
 
 /***/ }),
 /* 23 */
@@ -1940,4 +1940,4 @@ const getters = {
 
 /***/ })
 ],[23]);
-//# sourceMappingURL=app.3adac74963a52d7aac26.js.map
+//# sourceMappingURL=app.c48c1f510097f8f85dd7.js.map
