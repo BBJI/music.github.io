@@ -612,7 +612,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony default export */ __webpack_exports__["default"] = ({
 	data: function data() {
 		return {
-			images: [{ id: 1, src: "../../../../static/images/1.png" }, { id: 2, src: "../../../../static/images/2.png" }, { id: 3, src: "../../../../static/images/3.png" }, { id: 4, src: "../../../../static/images/4.png" }, { id: 5, src: "../../../../static/images/5.png" }, { id: 6, src: "../../../../static/images/6.png" }, { id: 7, src: "../../../../static/images/7.png" }, { id: 8, src: "../../../../static/images/8.png" }],
+			images: [{ id: 1, src: "../../../../music.github.io/static/images/1.png" }, { id: 2, src: "../../../../music.github.io/static/images/2.png" }, { id: 3, src: "../../../../music.github.io/static/images/3.png" }, { id: 4, src: "../../../../music.github.io/static/images/4.png" }, { id: 5, src: "../../../../music.github.io/static/images/5.png" }, { id: 6, src: "../../../../music.github.io/static/images/6.png" }, { id: 7, src: "../../../../music.github.io/static/images/7.png" }, { id: 8, src: "../../../../music.github.io/static/images/8.png" }],
 			init: 0,
 			timer: null,
 			lists: [{ id: 1, to: "/list" }, { id: 2, to: "/" }, { id: 3, to: "/" }, { id: 4, to: "/" }]
@@ -654,7 +654,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = ([{ id: 'Wicked Wonderland', singer: 'Martin Tungevaag', src: '../../music.github.io/static/musics/Wicked Wonderland.mp3' }, { id: 'Joey', singer: 'Concrete Blonde', src: '../../music.github.io/static/musics/joey.mp3' }, { id: 'For Real', singer: 'Mallrat', src: '../../music.github.io/static/musics/For Real.mp3' }]);
+/* harmony default export */ __webpack_exports__["a"] = ([{ id: 'Wicked Wonderland', singer: 'Martin Tungevaag', src: '../../music.github.io/static/musics/Wicked Wonderland.mp3' }, { id: 'Joey', singer: 'Concrete Blonde', src: '../../music.github.io/static/musics/Joey.mp3' }, { id: 'For Real', singer: 'Mallrat', src: '../../music.github.io/static/musics/For Real.mp3' }]);
 
 /***/ }),
 /* 23 */
@@ -1710,7 +1710,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 const state = {
 	songs: [],
-	init: '../../static/musics/Wicked Wonderland.mp3',
+	init: '',
 	hide: true,
 	minute: '00',
 	second: '00',
@@ -1940,4 +1940,4 @@ const getters = {
 
 /***/ })
 ],[23]);
-//# sourceMappingURL=app.c48c1f510097f8f85dd7.js.map
+//# sourceMappingURL=app.54e15c294498fa7f5f5e.js.map
